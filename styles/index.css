@@ -131,6 +131,7 @@ main{
     margin: 10px;
     background-image: url("../images/img1.png");
     background-size: cover;
+    border-radius: 10px;
 }
 
 #card2{
@@ -141,6 +142,7 @@ main{
     margin: 10px;
     background-image: url("../images/img2.png");
     background-size: cover;
+    border-radius: 10px;
 }
 
 #card3{
@@ -151,6 +153,7 @@ main{
     margin: 10px;
     background-image: url("../images/img3.png");
     background-size: cover;
+    border-radius: 10px;
 }
 
 iframe{
