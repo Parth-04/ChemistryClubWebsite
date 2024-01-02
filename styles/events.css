@@ -134,6 +134,9 @@ main p{
     background-color: grey;
     display: inline-block;
     margin-right: 50px;
+    background-image: url("../images/miscimages/img1.png");
+    background-size: cover;
+    border-radius: 10px;
 }
 
 
@@ -154,6 +157,9 @@ main p{
     background-color: grey;
     display: inline-block;
     margin-left: 50px;
+    background-image: url("../images/miscimages/img2.png");
+    background-size: cover;
+    border-radius: 10px;
 }
 
 .event3{
@@ -173,6 +179,9 @@ main p{
     background-color: grey;
     display: inline-block;
     margin-right: 50px;
+    background-image: url("../images/miscimages/img3.png");
+    background-size: cover;
+    border-radius: 10px;
 }
 
 .event4{
@@ -192,6 +201,9 @@ main p{
     background-color: grey;
     display: inline-block;
     margin-left: 50px;
+    background-image: url("../images/miscimages/img4.png");
+    background-size: cover;
+    border-radius: 10px;
 }
 
 .event5{
@@ -211,6 +223,9 @@ main p{
     background-color: grey;
     display: inline-block;
     margin-right: 50px;
+    background-image: url("../images/miscimages/img5.png");
+    background-size: cover;
+    border-radius: 10px;
 }
 
 
