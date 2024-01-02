@@ -14,7 +14,7 @@ body {
     justify-content: flex-start;
     color: white;
     text-align: left;
-    background-image: url('../images/mainbg.jpg'); 
+    background-image: url('../images/backgrounds/mainbg.jpg'); 
     background-size: cover;
     background-position: center top;
 }

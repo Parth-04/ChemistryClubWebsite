@@ -15,7 +15,7 @@ body {
     justify-content: flex-start;
     color: white;
     text-align: left;
-    background-image: url('../images/aboutusbg.jpg'); 
+    background-image: url('../images/backgrounds/aboutusbg.jpg'); 
     background-size: cover;
     background-position: center top;
 }
@@ -131,6 +131,8 @@ main p{
     display: inline-block;
     margin: 10px;
     border-radius: 145px;
+    background-image: url("../images/team/Tejas\ lokhande.jpg");
+    background-size: cover;
 }
 
 #card2{
@@ -140,6 +142,8 @@ main p{
     display: inline-block;
     margin: 10px;
     border-radius: 145px;
+    background-image: url("../images/team/.jpg");
+    background-size: cover;
 }
 
 #card3{
@@ -149,6 +153,8 @@ main p{
     display: inline-block;
     margin: 10px;
     border-radius: 130px;
+    background-image: url("../images/team/Suketu\ Datta\ \(1\).jpg");
+    background-size: cover;
 }
 
 #card4{
@@ -158,6 +164,8 @@ main p{
     display: inline-block;
     margin: 10px;
     border-radius: 130px;
+    background-image: url("../images/team/Ronit.png");
+    background-size: cover;
 }
 
 #card5{
@@ -167,6 +175,8 @@ main p{
     display: inline-block;
     margin: 10px;
     border-radius: 130px;
+    background-image: url("../images/team/Vipul\ Muskan.jpg");
+    background-size: cover;
 }
 
 #card6{
@@ -176,6 +186,8 @@ main p{
     display: inline-block;
     margin: 10px;
     border-radius: 130px;
+    background-image: url("../images/team/Dhruv.jpg\ .jpg");
+    background-size: cover;
 }
 
 #card7{
@@ -185,6 +197,8 @@ main p{
     display: inline-block;
     margin: 10px;
     border-radius: 130px;
+    background-image: url("../images/team/Aryan.jpg");
+    background-size: cover
 }
 
 #card8{
@@ -194,6 +208,8 @@ main p{
     display: inline-block;
     margin: 10px;
     border-radius: 130px;
+    background-image: url("../images/team/Parth.jpg");
+    background-size: cover;
 }
 
 iframe{
