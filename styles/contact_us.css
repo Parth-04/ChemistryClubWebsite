@@ -14,7 +14,7 @@ body {
     justify-content: flex-start;
     color: white;
     text-align: left;
-    background-image: url('../images/contact_usbg.jpg'); 
+    background-image: url('../images/backgrounds/contact_usbg.jpg'); 
     background-size: cover;
     background-position: center top;
 }

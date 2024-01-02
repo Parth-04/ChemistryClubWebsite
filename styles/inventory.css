@@ -15,7 +15,7 @@ body {
     justify-content: flex-start;
     color: white;
     text-align: left;
-    background-image: url('../images/inventorybg.jpg'); 
+    background-image: url('../images/backgrounds/inventorybg.jpg'); 
     background-size: cover;
     background-position: center top;
 }
