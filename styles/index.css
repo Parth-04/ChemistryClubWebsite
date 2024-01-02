@@ -129,6 +129,8 @@ main{
     background-color: grey;
     display: inline-block;
     margin: 10px;
+    background-image: url("../images/img1.png");
+    background-size: cover;
 }
 
 #card2{
@@ -137,6 +139,8 @@ main{
     background-color: grey;
     display: inline-block;
     margin: 10px;
+    background-image: url("../images/img2.png");
+    background-size: cover;
 }
 
 #card3{
@@ -145,6 +149,8 @@ main{
     background-color: grey;
     display: inline-block;
     margin: 10px;
+    background-image: url("../images/img3.png");
+    background-size: cover;
 }
 
 iframe{
